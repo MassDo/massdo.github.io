@@ -3,19 +3,19 @@
     permalink: /competences/  
 ---
 
-# Front:
+### Front:
 
 * HTML5 / CSS3 / JavaScript
 * Bootstrap / Jekyll
 * Ajax
 
-# Back:
+### Back:
 
 * Python 
 * Flask / Django / Django Rest Framework
 * MySQL / PostgreSQL
 
-# Déploiement:
+### Déploiement:
 
 * Héroku
 * AWS EC2 instance t2.micro ubuntu, Nginx, Gunicorn, supervisor

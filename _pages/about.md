@@ -4,11 +4,12 @@ permalink: /about/
 # header:
 #   image: "/images/zakim.jpg"
 ---
+<br/>
+<br/>
+<br/>
 
-
-
-**Avant**: NOSA
+**Avant**: Navigateur officier systèmes d'armes
 
 **Puis**: Kinésitérapeuthe
 
-**Maintenant**: développeur junior, motivé et passionné !
+**Maintenant**: Développeur junior, motivé et passionné !
