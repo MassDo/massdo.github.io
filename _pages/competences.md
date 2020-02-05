@@ -5,7 +5,7 @@
 
 ## Front:
 
-* HTML5 / CSS3 / JavaScript / jQuery
+* HTML / CSS / JavaScript / jQuery
 * Bootstrap / Jekyll
 * Ajax / Responsive design
 
