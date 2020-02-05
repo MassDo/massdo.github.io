@@ -1,11 +1,12 @@
 ---
-layout: archive
+layout: posts
 permalink: /projets/
-title: "Projets"
+title: "projets"
 author_profile: true
 # header:
 #   image: "/images/fort point.png"
 ---
+
 
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}

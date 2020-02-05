@@ -5,4 +5,8 @@ permalink: /about/
 #   image: "/images/zakim.jpg"
 ---
 
-~~Navigateur officier systèmes d’armes~~, ~~Kinésitérapeuthe~~, Développeur junior python, sérieux et motivé !
+Avant: **NOSA**
+
+Puis: **Kinésitérapeuthe**
+
+Maintenant: **développeur junior, motivé et passionné !**
