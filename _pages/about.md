@@ -5,8 +5,10 @@ permalink: /about/
 #   image: "/images/zakim.jpg"
 ---
 
-Avant: **NOSA**
 
-Puis: **Kinésitérapeuthe**
 
-Maintenant: **développeur junior, motivé et passionné !**
+**Avant**: NOSA
+
+**Puis**: Kinésitérapeuthe
+
+**Maintenant**: développeur junior, motivé et passionné !
