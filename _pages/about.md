@@ -5,11 +5,12 @@ permalink: /about/
 #   image: "/images/zakim.jpg"
 ---
 <br/>
-<br/>
-<br/>
+
 
 **Avant**: Navigateur officier systèmes d'armes
 
+
 **Puis**: Kinésitérapeuthe
+
 
 **Maintenant**: Développeur junior, motivé et passionné !
