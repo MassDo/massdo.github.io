@@ -3,8 +3,8 @@ layout: archive
 permalink: /projets/
 title: "Projets"
 author_profile: true
-header:
-  image: "/images/fort point.png"
+# header:
+#   image: "/images/fort point.png"
 ---
 
 {% include base_path %}
