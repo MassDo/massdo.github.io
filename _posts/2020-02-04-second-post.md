@@ -2,8 +2,8 @@
 title: "Projet ChatBot"
 date: 2018-02-02
 tags: [Chatbot][Flask][API]
-header:
-  image: "/images/perceptron/percept.jpg"
+# header:
+#   image: "/images/perceptron/percept.jpg"
 excerpt: "test excerpt, Data Science, Messy Data"
 mathjax: "true"
 ---
