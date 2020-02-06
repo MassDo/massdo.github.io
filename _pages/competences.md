@@ -21,3 +21,4 @@
 * AWS EC2 instance t2.micro ubuntu, Nginx, Gunicorn, supervisor
 * Monitoring: Sentry
 * Intégration continue: Travis CI
+* Unittest / Pytest / TDD
