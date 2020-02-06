@@ -7,10 +7,10 @@ permalink: /about/
 <br/>
 
 
-**Avant**:<pre>      Navigateur officier systèmes d'armes</pre>
+**Avant**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Navigateur officier systèmes d'armes
 
 
-**Après**:<pre>       Kinésitérapeuthe</pre>
+**Après**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kinésitérapeuthe
 
 
-**Maintenant**:<pre>  Développeur junior, motivé et passionné !</pre>
+**Maintenant**:&nbsp;&nbsp;Développeur junior, motivé et passionné !
