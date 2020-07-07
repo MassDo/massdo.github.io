@@ -1,9 +1,9 @@
 ---
-title: "Massdo-Api"
+title: "API"
 date: 2020-07-05
 tags: [Django-Rest-Framework, Traefik, Docker]
 ---
-Api avec authentification vérifiée par mails, réalisée à l'aide de Django-Rest-Framework. Déploiement avec AWS/Traefik/Docker/Postgres, et utilisation de letsencrypt pour les certificats.
+Api avec authentification vérifiée par mails, réalisée à l'aide de Django-Rest-Framework. Déploiement avec AWS/Traefik/Docker/Postgres et letsencrypt pour les certificats.
 
 [massdo.fr](https://massdo.fr/)
 
