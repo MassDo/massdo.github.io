@@ -12,13 +12,14 @@
 ## Back:
 
 * Python 
-* Flask / Django / Django Rest Framework
-* MySQL / PostgreSQL
+* Flask / Django / Django-Rest-Framework
+* MySQL / PostgreSQL / Redis
 
 ## Déploiement:
 
-* Heroku
-* AWS EC2 instance t2.micro ubuntu, Nginx, Gunicorn, supervisor
+* Heroku / AWS 
+* Traefik / Docker
+* Nginx / Gunicorn / Supervisor
 * Monitoring: Sentry
 * Intégration continue: Travis CI
 * Unittest / Pytest / TDD
