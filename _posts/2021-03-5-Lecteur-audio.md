@@ -6,7 +6,7 @@ tags: [react, js]
 
 # Chillhop - Lecteur audio .
 
-Un [lecteur audio](http://chillhop.herokuapp.com/) réalisé avec React !
+Un [lecteur audio](https://chillhop.herokuapp.com/) réalisé avec React !
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/chillhop/music.gif" alt="chillhop">
 
