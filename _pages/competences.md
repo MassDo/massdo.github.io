@@ -5,21 +5,19 @@
 
 ## Front:
 
-* HTML / CSS / JavaScript / jQuery
-* Bootstrap / Jekyll
-* Ajax / Responsive design
+- HTML / CSS / JS / React / Redux
 
 ## Back:
 
-* Python 
-* Flask / Django / Django-Rest-Framework
-* MySQL / PostgreSQL / Redis
+- Python
+- Flask / Django / Django-Rest-Framework
+- MySQL / PostgreSQL / Redis
 
 ## Déploiement:
 
-* Heroku / AWS 
-* Traefik / Docker
-* Nginx / Gunicorn / Supervisor
-* Monitoring: Sentry
-* Intégration continue: Travis CI
-* Unittest / Pytest / TDD
+- Heroku / AWS
+- Traefik / Docker
+- Nginx / Gunicorn / Supervisor
+- Monitoring: Sentry
+- Certificat SSL
+- Unittest / Pytest / TDD
