@@ -14,4 +14,4 @@ Compétences du projet:
 
 React / CSS / JS
 
-Accéder au [site](http://chillhop.herokuapp.com/) ou à son code sur [GitHub](https://github.com/MassDo/react-music-player)
+Accéder au [site](https://chillhop.herokuapp.com/) ou à son code sur [GitHub](https://github.com/MassDo/react-music-player)
