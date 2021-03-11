@@ -1,6 +1,6 @@
 ---
-title: "Lecteur Audio !"
-date: 2021-03-5
+title: "Lecteur Audio ! (React)"
+date: 2021-03-6
 tags: [react, js]
 ---
 
