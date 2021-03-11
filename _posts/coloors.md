@@ -1,7 +1,7 @@
 ---
 title: "Coloors ! Palette de couleur "
 date: 2021-03-03
-tags: [react, js, animation, StyledComponent]
+tags: [css, js, animation]
 ---
 
 # Coloors ! Palette de couleur !
