@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Dorian Massoulier"
-  avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio-pic.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Portfolio"
   location         : "Paris"
   email            : "massoulier.d@gmail.com"

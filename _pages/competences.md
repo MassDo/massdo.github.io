@@ -5,19 +5,10 @@
 
 ## Front:
 
-- HTML / CSS / JS / React / Redux
+- React
 
 ## Back:
 
-- Python
-- Flask / Django / Django-Rest-Framework
-- MySQL / PostgreSQL / Redis
-
-## Déploiement:
-
-- Heroku / AWS
-- Traefik / Docker
-- Nginx / Gunicorn / Supervisor
-- Monitoring: Sentry
-- Certificat SSL
-- Unittest / Pytest / TDD
+- Python / Php
+- Flask / Django / Django-Rest-Framework / Laravel
+- MySQL / Redis
