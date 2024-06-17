@@ -13,4 +13,4 @@ permalink: /about/
 **Après**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kinésithérapeute
 
 
-**Maintenant**:&nbsp;&nbsp;Développeur, motivé et passionné !
+**Maintenant**:&nbsp;&nbsp;Développeur
